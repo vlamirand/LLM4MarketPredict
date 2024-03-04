@@ -15,3 +15,23 @@ Stage 3: Fine-tuning Advanced LLMs from Leading Companies
 The final stage will focus on fine-tuning advanced LLMs developed by leading AI companies, such as Facebook (Meta) or creators of Mistral AI. This stage will involve working with large pre-trained models adapted to the specifics of forecasting tasks in financial markets. The main goal is to assess the potential and effectiveness of fine-tuning such models on specialized data and to identify new opportunities for increasing the accuracy of forecasts.
 
 The project's goal is to conduct a deep analysis and assessment of the potential of artificial intelligence technologies, especially transformers and LLMs, for forecasting tasks in financial markets. In addition to the scientific contribution to understanding the capabilities and limitations of modern AI models in financial analytics, the project also aims to significantly enhance the author's knowledge and practical skills in the fields of machine learning, deep learning, and natural language processing.
+
+## Project Plan
+
+### Stage 1: Testing Existing Transformer Models
+- [ ] Review of available transformer models
+- [ ] Preparation of data from cryptocurrency exchanges
+- [ ] Testing models on prepared data
+- [ ] Analysis of testing results
+
+### Stage 2: Development and Experiments with Own Models
+- [ ] Development of a custom transformer model
+- [ ] Training the model on financial data
+- [ ] Testing and optimizing the model
+- [ ] Analysis of improvements and conclusions
+
+### Stage 3: Fine-tuning Advanced LLMs from Leading Companies
+- [ ] Selection of an advanced LLM for fine-tuning
+- [ ] Preparation and adaptation of data for fine-tuning
+- [ ] The fine-tuning process of the model
+- [ ] Testing and analysis of improvements after fine-tuning
