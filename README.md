@@ -2,6 +2,8 @@
 
 [Прочитать на русском](./README_RU.md)
 
+**Important:** This is the initial stage of the research. If you want to participate or contribute, join us! Discuss details and collaboration opportunities by contacting me on Telegram: [@vlamirand](https://t.me/vlamirand).
+
 ## Project Description
 The LLM4MarketPredict project is dedicated to a comprehensive investigation of the potential of Large Language Models (LLM) technologies for analyzing and forecasting financial market data. The project aims to deeply understand the capabilities of modern artificial intelligence algorithms, particularly transformers, in financial analysis and forecasting tasks.
 
