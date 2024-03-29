@@ -27,7 +27,7 @@ The project's goal is to conduct a deep analysis and assessment of the potential
 - [x] Analysis of testing results
 
 ### Stage 2: Development and Experiments with Own Models
-- [x] Development of a custom transformer model
+- [ ] Development of a custom transformer model
 - [ ] Training the model on financial data
 - [ ] Testing and optimizing the model
 - [ ] Analysis of improvements and conclusions
