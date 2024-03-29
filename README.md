@@ -21,13 +21,13 @@ The project's goal is to conduct a deep analysis and assessment of the potential
 ## Project Plan
 
 ### Stage 1: Testing Existing Transformer Models
-- [ ] Review of available transformer models
-- [ ] Preparation of data from cryptocurrency exchanges
-- [ ] Testing models on prepared data
-- [ ] Analysis of testing results
+- [x] Review of available transformer models
+- [x] Preparation of data from cryptocurrency exchanges
+- [x] Testing models on prepared data
+- [x] Analysis of testing results
 
 ### Stage 2: Development and Experiments with Own Models
-- [ ] Development of a custom transformer model
+- [x] Development of a custom transformer model
 - [ ] Training the model on financial data
 - [ ] Testing and optimizing the model
 - [ ] Analysis of improvements and conclusions
